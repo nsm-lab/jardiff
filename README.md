@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 JAR diff for Scala
 ==================
 
@@ -296,3 +297,7 @@ index 5672560..4d1fafb 100644
  
    // access flags 0x9
 ```
+=======
+# jardiff
+A tool for comparing JAR files, including Scala pickled signatures and method code
+>>>>>>> 17b882bd5880a1a043ff1b900dac94c578af399b
